@@ -1,0 +1,52 @@
+.VendingMachine {
+
+}
+
+.VendingMachine-image {
+    width: 500px;
+    margin: auto;
+}
+
+.VendingMachine-image-container {
+    text-align: center;
+}
+
+
+.VendingMachine-link {
+    color: #111;
+    text-decoration: none;
+    background-color:  rgb(255, 204, 0);
+    padding: 15px;
+    border-radius: 8px;
+    border: 3px solid rgb(0, 5, 7);
+}
+
+.VendingMachine-link:hover {
+    background-color:  rgb(255, 153, 0);
+}
+
+.soda-link {
+    position: absolute;
+    top: 100px;
+    right: 50%;
+}
+
+
+.candy-link {
+    position: absolute;
+    top: 400px;
+    right: 55%;
+}
+    
+
+.chips-link {
+    position: absolute;
+    top: 270px;
+    right: 45%;
+    
+}
+
+.VendingMachine-Item {
+    text-align: center;
+
+}
